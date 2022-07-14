@@ -1,0 +1,57 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+}
+
+nav li{
+    display: inline;
+    margin: 30px;
+}
+
+nav ul{
+    background-color: teal;
+    margin: 0;
+    list-style-type: none;
+    width: 100%;
+    padding: 30px;
+
+}
+
+nav{
+    display:block;
+    color: white;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.hero-image{
+
+    height: auto;
+    max-width: 0.05%;
+    object-fit: scale-down;
+}
+
+h1{
+    font-weight: normal;
+}
+
+
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  div {
+    text-align: center;
+  }
+
+  div {
+    display: flex;
+    justify-content: center;
+  }
